@@ -170,14 +170,6 @@ Para más detalles, consultar el Reglamento de Estudiantes, Sección VI.
 
 ---
 
-## Contacto
-
-**Profesor:** Carlos Alberto Ramírez Restrepo
-**Correo:** <carlosalbertoramirez@javerianacali.edu.co>
-**Página del curso:** <https://www.carlosramirez.info/teaching/agra/2026-1>
-
----
-
 ## Versión
 
 **Versión 1.0** — 2026-1
